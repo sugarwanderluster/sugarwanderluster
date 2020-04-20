@@ -2,7 +2,7 @@
 title: SugarWanderLust
 baseURL: "/"
 params:
-  layout_style: default
+  layout_style: overflow
   palette: blue
   header:
     title: SugarWanderLust
