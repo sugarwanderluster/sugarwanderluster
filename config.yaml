@@ -6,7 +6,7 @@ params:
   palette: blue
   header:
     title: SugarWanderLust
-    tagline: Header Tagline
+    tagline: I'm the best!
     profile_img: images/avatar.png
     bg: dark
     has_nav: true
