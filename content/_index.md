@@ -5,7 +5,7 @@ sections:
   template: heroblock
   section_id: hero
   component: hero_block.html
-  content: Hehehe. This is where you type stuff. Just an example. The recommended
+  content: Blah blah blah. This is where you type stuff. Just an example. The recommended
     length is one to three sentences, but can be changed as you prefer.
   title: ''
   actions: []
