@@ -5,7 +5,7 @@ params:
   layout_style: overflow
   palette: blue
   header:
-    title: SUGARWANDERLUSTER
+    title: SugarWanderLust
     tagline: Header Tagline
     profile_img: images/avatar.png
     bg: dark
